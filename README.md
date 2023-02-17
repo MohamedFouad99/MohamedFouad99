@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior flutter developerز
+I'm a junior flutter developer.
 
 🔭 I’m currently working on improving my skills as a software engineer.
 
