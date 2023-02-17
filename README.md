@@ -2,9 +2,13 @@
 I'm a junior flutter developer
 
 🔭 I’m currently working on improving my skills as a software engineer.
+
 🌱 I’m currently curious about mobile and backend development.
+
 👯 I’m looking to collaborate on open source projects.
+
 💬 Ask me about Flutter, Dart, Firebase, C++.
+
 📫 How to reach me:
 Link to [LinkedIn](https://www.linkedin.com/in/mohamed-fouad99/)
 <!--
