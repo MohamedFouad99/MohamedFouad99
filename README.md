@@ -13,7 +13,7 @@ I'm a junior flutter developer.
 
 https://www.linkedin.com/in/mohamed-fouad99/
 
- m.elsayedfouad99@gmail.com)
+ m.elsayedfouad99@gmail.com
 <!--
 **MohamedFouad99/MohamedFouad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
