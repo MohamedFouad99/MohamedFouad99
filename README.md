@@ -10,7 +10,8 @@ I'm a junior flutter developer.
 💬 Ask me about Flutter, Dart, Firebase, C++.
 
 📫 How to reach me:
-photo to [LinkedIn](https://www.linkedin.com/in/mohamed-fouad99/)
+
+ [LinkedIn](https://www.linkedin.com/in/mohamed-fouad99/)
  [Email](m.elsayedfouad99@gmail.com)
 <!--
 **MohamedFouad99/MohamedFouad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
