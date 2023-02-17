@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior flutter developer
+I'm a junior flutter developerز
 
 🔭 I’m currently working on improving my skills as a software engineer.
 
@@ -10,8 +10,7 @@ I'm a junior flutter developer
 💬 Ask me about Flutter, Dart, Firebase, C++.
 
 📫 How to reach me:
-Link to [LinkedIn](https://www.linkedin.com/in/mohamed-fouad99/)Connect with me:
-tharwat-samy-363aa7177/ tharwat samy LightAcademy1
+Link to [LinkedIn](https://www.linkedin.com/in/mohamed-fouad99/)
 <!--
 **MohamedFouad99/MohamedFouad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
