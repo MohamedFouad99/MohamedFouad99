@@ -9,6 +9,8 @@ I'm a flutter developer at Bayanatz.
 
 💬 Ask me about Flutter, Dart, Firebase, C++.
 
+⚡ Fun fact: I'm more into normal Spaghetti than Spaghetti code.
+
 📫 How to reach me:
 
 https://www.linkedin.com/in/mohamed-fouad99/
