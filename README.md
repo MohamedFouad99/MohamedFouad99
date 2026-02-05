@@ -57,7 +57,5 @@ Flutter • Dart • Firebase • Clean Architecture • Performance Optimizatio
 
 ---
 
-
-<p align="center">
-  <i>I prefer normal spaghetti over spaghetti code 🍝😄"</i>
-</p>
+## ⚡ Fun Fact
+> I prefer **normal spaghetti** over **spaghetti code** 🍝😄
