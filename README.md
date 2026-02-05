@@ -32,15 +32,13 @@
 ---
 
 ## 📊 GitHub Activity Overview
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MohamedFouad99&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad99&layout=compact&langs_count=8&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedFouad99&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
@@ -59,9 +57,7 @@ Flutter • Dart • Firebase • Clean Architecture • Performance Optimizatio
 
 ---
 
-## ⚡ Fun Fact
-> I prefer **normal spaghetti** over **spaghetti code** 🍝😄
 
 <p align="center">
-  <i>"Code is read more than it is written — keep it clean."</i>
+  <i>I prefer normal spaghetti over spaghetti code 🍝😄"</i>
 </p>
