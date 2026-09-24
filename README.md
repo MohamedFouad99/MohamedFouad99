@@ -102,6 +102,7 @@ class MohamedFouad {
 - 🏢 Co-own shares in Dubai properties and earn rental income
 - 💳 Built the core investment flows end to end
 - ⚡ Optimized UI performance for production
+- 📊 Portfolio dashboard with market insights & returns
 - 🛡️ DFSA-regulated fintech product
 
 <p align="center">
@@ -128,6 +129,7 @@ class MohamedFouad {
 - 🧩 Scalable UI across mobile & web
 - ✨ Seamless booking experience end to end
 - 💼 Branded booking pages, reminders & online payments
+- 👥 Client management with CRM integration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -147,13 +149,17 @@ class MohamedFouad {
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" /> More Published Apps
 
+<div align="center">
+
 | App | What it does | Download |
-|---|---|---|
+|:---:|:---:|:---:|
 | **Tecfy** | Employee attendance with fingerprint authentication | [Google Play](https://play.google.com/store/apps/details?id=co.tecfy.emp) |
 | **Rahma** | Care services app | [Google Play](https://play.google.com/store/apps/details?id=com.efadh.rahhmaaa) |
 | **Qarah** | On-demand water filter & cooler services (Saudi Arabia) | [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.qarah) |
 | **Tarh** | Real-estate listing & marketing platform (Saudi Arabia) | [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.tarh) |
 | **Knowticed** | Digital business cards with QR, freelancing & attendance system | [Google Play](https://play.google.com/store/apps/details?id=com.knowticed.plus) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -165,8 +171,10 @@ class MohamedFouad {
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma&perline=10" />
 </p>
 
+<div align="center">
+
 | Category | Technologies |
-|---|---|
+|:---:|:---:|
 | 📱 **Mobile** | Flutter, Dart, Android |
 | 🧠 **State Management** | BLoC, Cubit, Provider, GetX |
 | 🏛 **Architecture** | Clean Architecture, SOLID, MVVM |
@@ -174,6 +182,8 @@ class MohamedFouad {
 | ☁️ **Services** | Firebase |
 | 💾 **Databases** | Hive, Sqflite |
 | 🧰 **Tools** | Git, GitHub, CI/CD, Google Maps, Rive, Postman |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
