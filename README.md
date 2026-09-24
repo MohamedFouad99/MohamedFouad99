@@ -64,17 +64,17 @@ class MohamedFouad {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" width="45" /><br/>
   ScribeMe
 </h3>
-<p align="center"><b>AI accessibility assistant for blind & visually impaired users</b></p>
+<p align="center"><b>AI assistant for blind & visually impaired users</b></p>
 
-- 🎥 **Live Assist** — real-time camera assistance: users ask about their surroundings and get instant voice answers
-- 📄 Converts images & documents into readable, accessible text for students and daily users
-- ♿ Accessible, inclusive UX built for screen-reader users
+- 🎥 **Live Assist** — real-time camera help with instant voice answers
+- 📄 Turns images & documents into readable text
+- ♿ Accessible UX built for screen-reader users
 - 🌍 Used in 140 countries
 
 <p align="center">
@@ -89,17 +89,17 @@ class MohamedFouad {
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="45" /><br/>
   Baytukum
 </h3>
-<p align="center"><b>Fractional real-estate investment platform — Dubai</b></p>
+<p align="center"><b>Fractional real-estate investment — Dubai</b></p>
 
-- 🏢 Lets users co-own shares in Dubai properties and earn rental income
-- 💳 Implemented the core investment flows end to end
-- ⚡ Optimized UI performance and shipped production-ready features
+- 🏢 Co-own shares in Dubai properties and earn rental income
+- 💳 Built the core investment flows end to end
+- ⚡ Optimized UI performance for production
 - 🛡️ DFSA-regulated fintech product
 
 <p align="center">
@@ -114,6 +114,32 @@ class MohamedFouad {
 </p>
 
 </td>
+<td width="33%" valign="top">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="45" /><br/>
+  BookLNK
+</h3>
+<p align="center"><b>Appointment booking platform for businesses</b></p>
+
+- 📅 24/7 online booking & scheduling for service providers
+- 🧩 Scalable UI across mobile & web
+- ✨ Seamless booking experience end to end
+- 💼 Branded booking pages, reminders & online payments
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Booking-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/SaaS-E17055?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/eg/app/booklnk-manage-your-business/id6759353224"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.booklnk.dashboard"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://business.booklnk.app/"><img src="https://img.shields.io/badge/Web-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+</td>
 </tr>
 </table>
 
@@ -121,12 +147,11 @@ class MohamedFouad {
 
 | App | What it does | Download |
 |---|---|---|
-| **BookLNK** | Appointment booking & business management platform | [App Store](https://apps.apple.com/eg/app/booklnk-manage-your-business/id6759353224) · [Google Play](https://play.google.com/store/apps/details?id=com.booklnk.dashboard) · [Web](https://business.booklnk.app/) |
-| **Qarah** | On-demand water filter & cooler services (Saudi Arabia) | [App Store](https://apps.apple.com/us/app/qarah-%D9%82%D8%B1%D8%A7%D8%AD/id6745164653) · [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.qarah) |
-| **Tarh** | Real-estate listing & marketing platform (Saudi Arabia) | [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.tarh) |
-| **Rahma** | Care services app | [Google Play](https://play.google.com/store/apps/details?id=com.efadh.rahhmaaa) |
-| **Knowticed** | Digital business cards with QR, freelancing & attendance system | [Google Play](https://play.google.com/store/apps/details?id=com.knowticed.plus) |
 | **Tecfy** | Employee attendance with fingerprint authentication | [Google Play](https://play.google.com/store/apps/details?id=co.tecfy.emp) |
+| **Rahma** | Care services app | [Google Play](https://play.google.com/store/apps/details?id=com.efadh.rahhmaaa) |
+| **Qarah** | On-demand water filter & cooler services (Saudi Arabia) | [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.qarah) |
+| **Tarh** | Real-estate listing & marketing platform (Saudi Arabia) | [Google Play](https://play.google.com/store/apps/details?id=com.tharadtech.tarh) |
+| **Knowticed** | Digital business cards with QR, freelancing & attendance system | [Google Play](https://play.google.com/store/apps/details?id=com.knowticed.plus) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
