@@ -24,6 +24,9 @@
   <a href="https://leetcode.com/MohamedFouad99/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://vjudge.net/user/Mohamed_Fouad" target="_blank">
+    <img src="https://img.shields.io/badge/vJudge-Profile-6F42C1?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -40,7 +43,7 @@ class MohamedFouad {
   final String experience = "4+ years";
   final String backend = "Node.js";
   final int publishedApps = 17; // and counting 🚀
-  final int problemsSolved = 1150; // Codeforces & LeetCode
+  final int problemsSolved = 1150; // Codeforces, LeetCode & vJudge
   final List<String> platforms = ["Google Play", "App Store"];
   final List<String> strengths = [
     "Clean Architecture",
@@ -192,6 +195,12 @@ class MohamedFouad {
 <p align="center">
   <img src="https://img.shields.io/badge/Problems_Solved-1150%2B-13B9FD?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Apps_Published-17%2B-339933?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/MohamedFouad99"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/MohamedFouad99/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://vjudge.net/user/Mohamed_Fouad"><img src="https://img.shields.io/badge/vJudge-6F42C1?style=flat-square" /></a>
 </p>
 
 <p align="center">
