@@ -73,6 +73,7 @@ class MohamedFouad {
 <p align="center"><b>AI assistant for blind & visually impaired users</b></p>
 
 - 🎥 **Live Assist** — real-time camera help with instant voice answers
+- 🕶️ Works hands-free with **Meta AI glasses**
 - 📄 Turns images & documents into readable text
 - ♿ Accessible UX built for screen-reader users
 - 🌍 Used in 140 countries
@@ -81,6 +82,7 @@ class MohamedFouad {
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Accessibility-00B894?style=flat-square" />
+  <img src="https://img.shields.io/badge/Meta_Glasses-0467DF?style=flat-square&logo=meta&logoColor=white" />
 </p>
 
 <p align="center">
